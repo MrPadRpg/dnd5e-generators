@@ -1,0 +1,447 @@
+{
+    "facial_features":{
+        "eyes":{
+            "values":[
+                "Yeux endormis",
+                "Yeux louches",
+                "Yeux larmoyants",
+                "Yeux brillants",
+                "Yeux froids",
+                "Yeux souriants",
+                "Yeux fermés",
+                "Yeux sauvages",
+                "Yeux espacés",
+                "Strabisme",
+                "Yeux perçants",
+                "Regard attentif",
+                "Yeux sombres",
+                "Regard dissimulé",
+                "Yeux vairons",
+                "Yeux légèrement croisés",
+                "Yeux écarquillés",
+                "Beaux yeux",
+                "Yeux de fouine",
+                "Yeux pénétrants"
+            ]
+        },
+        "ears":{
+            "values":[
+                "Oreilles surdimensionnées",
+                "Longs lobes d'oreille",
+                "Petites oreilles",
+                "Oreilles inégales",
+                "Oreilles poilues",
+                "Oreilles pointues",
+                "Lobes d'oreille courts",
+                "Oreilles décollées",
+                "Oreilles boudinées",
+                "Oreilles très percées",
+                "Oreilles en chou-fleur",
+                "Oreilles avec d'improbables touffes de poils"
+            ]
+        },
+        "mouth":{
+            "values":[
+                "Lèvres pleines",
+                "Dents longues",
+                "Lèvres minces",
+                "Dents pourries",
+                "Dents tordues",
+                "Dent cassée ou manquante",
+                "Lèvres pincées",
+                "Lèvres sèches et fissurées",
+                "Une ou plusieurs fausses dents",
+                "Bouche entrouverte"
+            ]
+        },
+        "nose":{
+            "values":[
+                "Nez crochu",
+                "Nez bulbeux",
+                "Nez étroit",
+                "Nez en bouton",
+                "Nez long",
+                "Nez large",
+                "Nez anguleux",
+                "Nez rond",
+                "Nez cassé",
+                "Nez de faucon",
+                "Nez ouvert",
+                "Nez délicat"
+            ]
+        },
+        "chin_jaw":{
+            "values":[
+                "Menton prononcé",
+                "Fente du menton",
+                "Fossette au menton",
+                "Menton arrondi",
+                "Mâchoire acérée",
+                "Mâchoire carrée",
+                "Mâchoire ronde",
+                "Mâchoire en avant"
+            ]
+        },
+        "hair":{
+            "values":[
+                "Cheveux épais",
+                "Cheveux souples",
+                "Cheveux raides",
+                "Cheveux ondulés",
+                "Cheveux bouclés",
+                "Cheveux crépus",
+                "Cheveux gras",
+                "Cheveux luxuriants",
+                "Cheveux ébouriffés",
+                "Tresses longues",
+                "Tresses serrées contre la tête",
+                "Cheveux très longs",
+                "Cheveux gras",
+                "Cheveux indisciplinés",
+                "Coiffure inhabituelle",
+                "Coiffure démodée",
+                "Coiffure nécessitant beaucoup d'entretien",
+                "Cheveux coupés court",
+                "Crâne rasé",
+                "Aucun cheveu"
+            ]
+        },
+        "other":{
+            "values":[
+                "Pommettes hautes",
+                "Joues tendues, dessinées",
+                "Joues potelées",
+                "Pustule désagréable",
+                "Gros grain de beauté",
+                "Grain de beauté",
+                "Taches de rousseur",
+                "Une terrible cicatrice"
+            ]
+        }
+    },
+    "physical_traits":{
+        "height":{
+            "values":[
+                "Particulièrement petit",
+                "Petite taille",
+                "Taille moyenne",
+                "Légèrement au-dessus de la taille moyenne",
+                "Bien au-dessus de la taille moyenne",
+                "Particulièrement grand"
+            ]
+        },
+        "body":{
+            "values":[
+                "Mince et délicat",
+                "Corpulence moyenne",
+                "Bien musclé",
+                "Légèrement en surpoids",
+                "Grotesquement obèse",
+                "Maigre et longiligne",
+                "Svelte et maigre",
+                "Mince et râblé",
+                "Sinueux et fort",
+                "Flasque et faible",
+                "Grumeleux ou courbé",
+                "Mince et flasque",
+                "Mou et potelé",
+                "Mince et petit",
+                "Rondouillard",
+                "Grand et large",
+                "Trapu et fort",
+                "Osseux",
+                "Large et lourd",
+                "Couvert de poils"
+            ]
+        },
+        "hands":{
+            "values":[
+                "Mains puissantes",
+                "Mains délicates",
+                "Mains rudes",
+                "Mains douces",
+                "Toucher léger",
+                "Toucher lourd"
+            ]
+        },
+        "scars":{
+            "values":[
+                "Cicatrice irrégulière",
+                "Cicatrice mauve foncé",
+                "Cicatrice rouge vif",
+                "Cicatrice longue et fine"
+            ]
+        }
+    },
+    "accessories":{
+        "tattoo":{
+            "values":[
+                "Un tatouage de poignard",
+                "Un tatouage de flèche",
+                "Un tatouage d'ancre",
+                "Un tatouage de crâne",
+                "Un tatouage d'os croisés",
+                "Un tatouage de serpent",
+                "Un tatouage scorpion",
+                "Un tatouage de toile d'araignée",
+                "Un tatouage cœur",
+                "Un tatouage anneau d'épines",
+                "Un tatouage de sirène",
+                "Un tatouage de dragon"
+            ]
+        },
+        "jewerly":{
+            "values":[
+                "Une boucle d'oreille",
+                "Deux boucles d'oreilles",
+                "Une petite chaîne autour du cou",
+                "Une grande chaîne autour du cou",
+                "Un collier ras-de-cou serré autour du cou",
+                "Une broche",
+                "Une bague",
+                "Plusieurs bagues",
+                "Un bracelet",
+                "Un anneau dans le nez",
+                "Un médaillon",
+                "Une ceinture ornée"
+            ]
+        },
+        "jewelry_made_of":{
+            "values":[
+                "Acier",
+                "Bronze",
+                "Étain",
+                "Argent",
+                "Or",
+                "Platine",
+                "Cuivre",
+                "Pierre Precieuse"
+            ],
+            "gemstones":[
+                "améthyste",
+                "cristal",
+                "diamant",
+                "émeraude",
+                "jade",
+                "obsidienne",
+                "opale",
+                "perle",
+                "rubis",
+                "saphir",
+                "topaze",
+                "turquoise"
+            ]
+        },
+        "clothes":{
+            "values":[
+                "Impeccable et nouveau",
+                "À la mode et branché",
+                "Un peu démodé",
+                "De la plus haute qualité",
+                "Défraîchi, mais en bon état",
+                "Délavé et rapiécé",
+                "Déchiré par endroits ; boutons manquants",
+                "Déchiré et usé"
+            ]
+        }
+    },
+    "emotions_attitudes":{
+        "calm_trait":{
+            "values":[
+                "Compatissant",
+                "Joyeux(se)",
+                "Réservé",
+                "Franc-parler",
+                "Désintéressé(e)",
+                "Bourru",
+                "Enthousiaste",
+                "Trompeur",
+                "Sotte",
+                "Strict",
+                "Agréable",
+                "Malveillant",
+                "Colérique",
+                "Peureux",
+                "Manipulateur",
+                "Dévot",
+                "Généreux",
+                "Drôle",
+                "Dure",
+                "Amoureux du plaisir",
+                "Paresseux",
+                "Déterminé",
+                "Vantard",
+                "Artistique",
+                "Assuré",
+                "Insouciant",
+                "Prudent",
+                "Confiant",
+                "Réfléchi",
+                "Loyal",
+                "Raffiné",
+                "Volonté fragile"
+            ]
+        },
+        "stress_trait":{
+            "values":[
+                "Renfermé",
+                "Meurtrier",
+                "Obsessionnel",
+                "Autoritaire",
+                "Déterminé",
+                "Courageux",
+                "Spontané",
+                "Belliqueux",
+                "Caustique",
+                "Insouciant",
+                "Querelleur",
+                "Glouton",
+                "Trop protecteur",
+                "Colérique",
+                "Lâche",
+                "Méticuleux",
+                "Sarcastique",
+                "Têtu",
+                "Destructeur",
+                "Pragmatique",
+                "Poussant",
+                "Fanatique",
+                "Sécretaire",
+                "Méprisant",
+                "Courageux",
+                "Impraticable",
+                "Calculateur",
+                "Industrieux",
+                "Manipulateur",
+                "Destructeur",
+                "Compulsif",
+                "Intolérant"
+            ]
+        },
+        "mood":{
+            "values":[
+                "Agréable",
+                "Insouciant",
+                "Curieux",
+                "Enthousiaste",
+                "Amical",
+                "Heureux",
+                "Plein d'espoir",
+                "Enjoué",
+                "Indifférent",
+                "Ennuyé(e)",
+                "Concentré",
+                "Méfiant",
+                "Fatigué",
+                "Retiré",
+                "Désagréable",
+                "Agité",
+                "En colère",
+                "Découragé",
+                "Morose",
+                "Nerveux"
+            ]
+        }
+    },
+    "faith_beliefs":{
+        "faith":{
+            "values":[
+                "Croyant tranquille",
+                "Observateur décontracté",
+                "Étudiant critique",
+                "Cynique franc",
+                "Chercheur ouvert d'esprit",
+                "Hérétique brisé",
+                "Auditeur prudent",
+                "Croyant fanatique"
+            ]
+        },
+        "prejudice":{
+            "values":[
+                {
+                    "name":"Les autres genres",
+                    "values":[""]
+                },
+                {
+                    "name":"Une tranche d'âge",
+                    "values":[
+                        "enfants",
+                        "adolescents",
+                        "personnes agés"
+                    ]
+                },                
+                {
+                    "name":"Une classe sociale",
+                    "values":[
+                        "classe dirigeante et figures d'autorité",
+                        "riches puissants",
+                        "pauvres démunis"
+                    ]
+                },
+                {
+                    "name":"Les déviants sociaux",
+                    "values":[
+                        "mendiants",
+                        "alcooliques",
+                        "drogués"
+                    ]
+                },
+                {
+                    "name":"Une profession",
+                    "values":[
+                        "paysans",
+                        "artistes",
+                        "clergé",
+                        "soldats",
+                        "pêcheurs",
+                        "prostituées",
+                        "mineurs",
+                        "marchands",
+                        "érudits",
+                        "bergers",
+                        "marins",
+                        "mages"
+                    ]
+                },
+                {
+                    "name":"Une race",
+                    "values":[
+                        "nains",
+                        "elfes",
+                        "gnomes",
+                        "gobelins",
+                        "demi-sang",
+                        "halfelins",
+                        "humains",
+                        "orcs",
+                        "drakeïdes"
+                    ]
+                }
+            ]
+        }
+    },
+    "flaws":{
+        "values":[
+            "A la bougeotte",
+            "Boit trop",
+            "Mange trop",
+            "Jure souvent",
+            "A une mauvaise hygiène",
+            "Ne peut pas résister à flirter",
+            "Ne peut s'empêcher de regarder fixement",
+            "Transpire abondamment et facilement",
+            "Menteur invétéré",
+            "Embellit la vérité",
+            "Exagère les détails",
+            "A un mauvais caractère",
+            "Est mélodramatique",
+            "Commère des ragots",
+            "Mâche la bouche ouverte",
+            "Renifle souvent de façon audible",
+            "Ne se sent pas à l'aise dans les situations d'urgence",
+            "Est sceptique à l'égard de tout",
+            "Fait les cent pas",
+            "N'a pas un bon contact visuel"
+        ]
+    }
+}

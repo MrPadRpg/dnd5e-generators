@@ -1,0 +1,3894 @@
+{
+  "items": [
+    {
+      "type": "Consommables",
+      "name": "Parchemin de sort 0",
+      "price": "10",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=parchemin-de-sort",
+      "rarety": "Commun",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Consommables",
+      "name": "Munition +1 (unité)",
+      "price": "25",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=munition-1-2-ou-3",
+      "rarety": "Peu Commun",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Consommables",
+      "name": "Plume de Quaal (Ancre)",
+      "price": "50",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=plume-de-quaal",
+      "rarety": "Rare",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Consommables",
+      "name": "Potion de Guérison",
+      "price": "50",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=potion-de-guerison",
+      "rarety": "Commun",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Consommables",
+      "name": "Parchemin de sort 1",
+      "price": "60",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=parchemin-de-sort",
+      "rarety": "Commun",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Consommables",
+      "name": "Philtre d'Amour",
+      "price": "90",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=philtre-d-amour",
+      "rarety": "Peu Commun",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Consommables",
+      "name": "Munition +2 (unité)",
+      "price": "100",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=munition-1-2-ou-3",
+      "rarety": "Rare",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Consommables",
+      "name": "Potion de Poison",
+      "price": "100",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=potion-de-poison",
+      "rarety": "Peu Commun",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Consommables",
+      "name": "Baume de Keoghtom",
+      "price": "120",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=baume-de-keoghtom",
+      "rarety": "Peu Commun",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Consommables",
+      "name": "Elixir de Santé",
+      "price": "120",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=elixir-de-sante",
+      "rarety": "Rare",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Consommables",
+      "name": "Parchemin de sort 2",
+      "price": "120",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=parchemin-de-sort",
+      "rarety": "Peu Commun",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Consommables",
+      "name": "Poussière Dessicative",
+      "price": "120",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=poussiere-dessicative",
+      "rarety": "Peu Commun",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Consommables",
+      "name": "Potion de Guérison Majeure",
+      "price": "150",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=potion-de-guerison",
+      "rarety": "Peu Commun",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Consommables",
+      "name": "Potion de souffle enflammé\t",
+      "price": "150",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=potion-de-souffle-enflamme",
+      "rarety": "Peu Commun",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Consommables",
+      "name": "Parchemin de Protection",
+      "price": "180",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=parchemin-de-protection",
+      "rarety": "Rare",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Consommables",
+      "name": "Potion de Lecture des Pensées",
+      "price": "180",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=potion-de-lecture-des-pensees",
+      "rarety": "Rare",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Consommables",
+      "name": "Potion de Respiration Aquatique",
+      "price": "180",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=potion-de-respiration-aquatique",
+      "rarety": "Peu Commun",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Consommables",
+      "name": "Potion d'Escalade",
+      "price": "180",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=potion-d-escalade",
+      "rarety": "Peu Commun",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Consommables",
+      "name": "Potion d'Héroïsme",
+      "price": "180",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=potion-d-heroisme",
+      "rarety": "Rare",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Consommables",
+      "name": "Potion d'Invisibilité",
+      "price": "180",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=potion-d-invisibilite",
+      "rarety": "Très Rare",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Consommables",
+      "name": "Parchemin de sort 3",
+      "price": "200",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=parchemin-de-sort",
+      "rarety": "Peu Commun",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Consommables",
+      "name": "Pigments Merveilleux de Nolzur",
+      "price": "200",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=pigments-merveilleux-de-nolzur",
+      "rarety": "Très Rare",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Consommables",
+      "name": "Potion d'Amitié avec les Animaux",
+      "price": "200",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=potion-d-amitie-avec-les-animaux",
+      "rarety": "Peu Commun",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Consommables",
+      "name": "Plume de Quaal (Eventail)",
+      "price": "250",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=plume-de-quaal",
+      "rarety": "Rare",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Consommables",
+      "name": "Plume de Quaal (Fouet)",
+      "price": "250",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=plume-de-quaal",
+      "rarety": "Rare",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Consommables",
+      "name": "Potion d'Agrandissement",
+      "price": "270",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=potion-d-agrandissement",
+      "rarety": "Peu Commun",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Consommables",
+      "name": "Potion de Diminution",
+      "price": "270",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=potion-de-diminution",
+      "rarety": "Rare",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Consommables",
+      "name": "Collier de boules de feu (1 boule)",
+      "price": "300",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=collier-de-boules-de-feu",
+      "rarety": "Rare",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Consommables",
+      "name": "Potion de forme gazeuse",
+      "price": "300",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=potion-de-forme-gazeuse",
+      "rarety": "Rare",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Consommables",
+      "name": "Potion de Résistance",
+      "price": "300",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=potion-de-resistance",
+      "rarety": "Peu Commun",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Consommables",
+      "name": "Poussière de Disparition",
+      "price": "300",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=poussiere-de-disparition",
+      "rarety": "Peu Commun",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Consommables",
+      "name": "Solvant universel",
+      "price": "300",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=solvant-universel",
+      "rarety": "Légendaire",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Consommables",
+      "name": "Parchemin de sort 4",
+      "price": "320",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=parchemin-de-sort",
+      "rarety": "Rare",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Consommables",
+      "name": "Colle universelle",
+      "price": "400",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=colle-universelle",
+      "rarety": "Légendaire",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Consommables",
+      "name": "Munition +3 (unité)",
+      "price": "400",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=munition-1-2-ou-3",
+      "rarety": "Très Rare",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Consommables",
+      "name": "Potion de vitesse",
+      "price": "400",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=potion-de-vitesse",
+      "rarety": "Très Rare",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Consommables",
+      "name": "Cor de dévastation",
+      "price": "450",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=cor-de-devastation",
+      "rarety": "Rare",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Consommables",
+      "name": "Potion de Guérison Supérieure",
+      "price": "450",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=potion-de-guerison",
+      "rarety": "Très Rare",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Consommables",
+      "name": "Collier de boules de feu (2 boules)",
+      "price": "480",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=collier-de-boules-de-feu",
+      "rarety": "Rare",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Consommables",
+      "name": "Huile d'insaisissabilité",
+      "price": "480",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=huile-d-insaisissabilite",
+      "rarety": "Peu Commun",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Consommables",
+      "name": "Poudre à éternuer",
+      "price": "480",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=poudre-a-eternuer",
+      "rarety": "Peu Commun",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Consommables",
+      "name": "Potion de Vol",
+      "price": "500",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=potion-de-vol",
+      "rarety": "Très Rare",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Consommables",
+      "name": "Flèche tueuse (unité)",
+      "price": "600",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=fleche-tueuse",
+      "rarety": "Très Rare",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Consommables",
+      "name": "Parchemin de sort 5",
+      "price": "640",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=parchemin-de-sort",
+      "rarety": "Rare",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Consommables",
+      "name": "Collier de boules de feu (3 boules)",
+      "price": "960",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=collier-de-boules-de-feu",
+      "rarety": "Rare",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Consommables",
+      "name": "Gemme élémentaire",
+      "price": "960",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=gemme-elementaire",
+      "rarety": "Peu Commun",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Consommables",
+      "name": "Perle de force",
+      "price": "960",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=perle-de-force",
+      "rarety": "Rare",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Consommables",
+      "name": "Potion de Clairvoyance",
+      "price": "960",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=potion-de-clairvoyance",
+      "rarety": "Rare",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Consommables",
+      "name": "Potion de Vitalité",
+      "price": "960",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=potion-de-vitalite",
+      "rarety": "Très Rare",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Consommables",
+      "name": "Parchemin de sort 6",
+      "price": "1280",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=parchemin-de-sort",
+      "rarety": "Très Rare",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Consommables",
+      "name": "Potion de Guérison Suprème",
+      "price": "1350",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=potion-de-guerison",
+      "rarety": "Très Rare",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Consommables",
+      "name": "Carillon d'ouverture",
+      "price": "1500",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=carillon-d-ouverture",
+      "rarety": "Rare",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Consommables",
+      "name": "Collier de boules de feu (4 boules)",
+      "price": "1600",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=collier-de-boules-de-feu",
+      "rarety": "Rare",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Consommables",
+      "name": "Huile éthérée",
+      "price": "1920",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=huile-etheree",
+      "rarety": "Rare",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Consommables",
+      "name": "Pierre de Ioun (Absorption)",
+      "price": "2400",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=pierre-de-ioun",
+      "rarety": "Très Rare",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Consommables",
+      "name": "Parchemin de sort 7",
+      "price": "2560",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=parchemin-de-sort",
+      "rarety": "Très Rare",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Consommables",
+      "name": "Plume de Quaal (Bateau Cygne)",
+      "price": "3000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=plume-de-quaal",
+      "rarety": "Rare",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Consommables",
+      "name": "Plume de Quaal (Oiseau)",
+      "price": "3000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=plume-de-quaal",
+      "rarety": "Rare",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Consommables",
+      "name": "Huile d'Affûtage",
+      "price": "3200",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=huile-d-affutage",
+      "rarety": "Très Rare",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Consommables",
+      "name": "Collier de boules de feu (5 boules)",
+      "price": "3840",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=collier-de-boules-de-feu",
+      "rarety": "Rare",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Consommables",
+      "name": "Potion d'Invulnérabilité",
+      "price": "3840",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=potion-d-invulnerabilite",
+      "rarety": "Rare",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Consommables",
+      "name": "Gemme d'Illumination",
+      "price": "5000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=gemme-d-illumination",
+      "rarety": "Peu Commun",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Consommables",
+      "name": "Parchemin de sort 8",
+      "price": "5120",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=parchemin-de-sort",
+      "rarety": "Très Rare",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Consommables",
+      "name": "Cartes d'Illusion",
+      "price": "6120",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=cartes-d-illusion",
+      "rarety": "Peu Commun",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Consommables",
+      "name": "Collier de boules de feu (6 boules)",
+      "price": "7680",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=collier-de-boules-de-feu",
+      "rarety": "Rare",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Consommables",
+      "name": "Parchemin de sort 9",
+      "price": "10240",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=parchemin-de-sort",
+      "rarety": "Légendaire",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Consommables",
+      "name": "Pierre de Ioun (Absorption Supérieure)",
+      "price": "31000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=pierre-de-ioun",
+      "rarety": "Légendaire",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Consommables",
+      "name": "Sceptre d'Absorption",
+      "price": "50000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=sceptre-d-absorption",
+      "rarety": "Très Rare",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Consommables",
+      "name": "Talisman du Mal Absolu",
+      "price": "61440",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=talisman-du-mal-absolu",
+      "rarety": "Légendaire",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Consommables",
+      "name": "Talisman du Bien Ultime",
+      "price": "71680",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=talisman-du-bien-ultime",
+      "rarety": "Légendaire",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Consommables",
+      "name": "Robe de Camelot",
+      "price": "Items * 5",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=robe-de-camelot",
+      "rarety": "Peu Commun",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Change la Donne",
+      "name": "Armure +1",
+      "price": "1500",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=armure-1-2-ou-3",
+      "rarety": "Rare",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Change la Donne",
+      "name": "Bouclier +1",
+      "price": "1500",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=bouclier-1-2-ou-3",
+      "rarety": "Peu Commun",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Change la Donne",
+      "name": "Pierres de communication à distance",
+      "price": "2000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=pierres-de-communication-a-distance",
+      "rarety": "Peu Commun",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Change la Donne",
+      "name": "Cape de vol",
+      "price": "5000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=cape-de-vol",
+      "rarety": "Rare",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Change la Donne",
+      "name": "Armure +2",
+      "price": "6000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=armure-1-2-ou-3",
+      "rarety": "Très Rare",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Change la Donne",
+      "name": "Bouclier +2",
+      "price": "6000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=bouclier-1-2-ou-3",
+      "rarety": "Rare",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Change la Donne",
+      "name": "Cruche alchimique",
+      "price": "6000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=cruche-alchimique",
+      "rarety": "Peu Commun",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Change la Donne",
+      "name": "Figurine Merveilleuse - Mouche d'ébène",
+      "price": "6000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=figurine-merveilleuse",
+      "rarety": "Rare",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Change la Donne",
+      "name": "Balai volant",
+      "price": "8000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=balai-volant",
+      "rarety": "Peu Commun",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Change la Donne",
+      "name": "Bottes ailées",
+      "price": "8000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=bottes-ailees",
+      "rarety": "Peu Commun",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Change la Donne",
+      "name": "Figurine Merveilleuse - Chouette en serpentine",
+      "price": "8000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=figurine-merveilleuse",
+      "rarety": "Rare",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Change la Donne",
+      "name": "Figurine Merveilleuse - Griffon de bronze",
+      "price": "8000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=figurine-merveilleuse",
+      "rarety": "Rare",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Change la Donne",
+      "name": "Élixir du jouvence",
+      "price": "9000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=elixir-du-jouvence",
+      "rarety": "Très Rare",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Change la Donne",
+      "name": "Harnois nain",
+      "price": "9000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=harnois-nain",
+      "rarety": "Très Rare",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Change la Donne",
+      "name": "Anneau de régénération",
+      "price": "12000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=anneau-de-regeneration",
+      "rarety": "Très Rare",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Change la Donne",
+      "name": "Tapis volant",
+      "price": "12000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=tapis-volant",
+      "rarety": "Très Rare",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Change la Donne",
+      "name": "Sphère d'annihilation",
+      "price": "15000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=sphere-d-annihilation",
+      "rarety": "Légendaire",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Change la Donne",
+      "name": "Armure d'invulnérabilité",
+      "price": "18000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=armure-d-invulnerabilite",
+      "rarety": "Légendaire",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Change la Donne",
+      "name": "Talisman de la sphère",
+      "price": "20000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=talisman-de-la-sphere",
+      "rarety": "Légendaire",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Change la Donne",
+      "name": "Armure +3",
+      "price": "24000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=armure-1-2-ou-3",
+      "rarety": "Légendaire",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Change la Donne",
+      "name": "Bouclier +3",
+      "price": "24000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=bouclier-1-2-ou-3",
+      "rarety": "Très Rare",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Change la Donne",
+      "name": "Gardienne",
+      "price": "24000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=gardienne",
+      "rarety": "Légendaire",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Change la Donne",
+      "name": "Anneau de contrôle des élémentaires de terre",
+      "price": "31000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=anneau-de-controle-des-elementaires",
+      "rarety": "Légendaire",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Change la Donne",
+      "name": "Robe de l'archimage",
+      "price": "34000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=robe-de-l-archimage",
+      "rarety": "Légendaire",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Change la Donne",
+      "name": "Anneau de contrôle des élémentaires d'air",
+      "price": "35000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=anneau-de-controle-des-elementaires",
+      "rarety": "Légendaire",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Change la Donne",
+      "name": "Cube des plans",
+      "price": "40000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=cube-des-plans",
+      "rarety": "Légendaire",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Change la Donne",
+      "name": "Boule de cristal",
+      "price": "50000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=boule-de-cristal",
+      "rarety": "Très Rare",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Change la Donne",
+      "name": "Heaume de téléportation",
+      "price": "64000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=heaume-de-teleportation",
+      "rarety": "Rare",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Change la Donne",
+      "name": "Forteresse instantanée de Daern",
+      "price": "75000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=forteresse-instantanee-de-daern",
+      "rarety": "Rare",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Change la Donne",
+      "name": "Anneau de télékinésie",
+      "price": "80000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=anneau-de-telekinesie",
+      "rarety": "Très Rare",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Change la Donne",
+      "name": "Cape d'invisibilité",
+      "price": "80000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=cape-d-invisibilite",
+      "rarety": "Légendaire",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Change la Donne",
+      "name": "Sceptre de sécurité",
+      "price": "90000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=sceptre-de-securite",
+      "rarety": "Très Rare",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Change la Donne",
+      "name": "Bâton de surpuissance",
+      "price": "95500",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=baton-de-surpuissance",
+      "rarety": "Très Rare",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Change la Donne",
+      "name": "Figurine Merveilleuse - Cheval d'obsidienne",
+      "price": "128000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=figurine-merveilleuse",
+      "rarety": "Très Rare",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Change la Donne",
+      "name": "Carafe intarissable",
+      "price": "135000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=carafe-intarissable",
+      "rarety": "Peu Commun",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Change la Donne",
+      "name": "Amulette des plans",
+      "price": "160000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=amulette-des-plans",
+      "rarety": "Très Rare",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets d'Invocations",
+      "name": "Figurine Merveilleuse - Boucs d'ivoire (Labeur)",
+      "price": "400",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=figurine-merveilleuse",
+      "rarety": "Rare",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets d'Invocations",
+      "name": "Figurine Merveilleuse - Lions d'or (unité)",
+      "price": "600",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=figurine-merveilleuse",
+      "rarety": "Rare",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets d'Invocations",
+      "name": "Figurine Merveilleuse - Boucs d'ivoire (Voyage)",
+      "price": "1000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=figurine-merveilleuse",
+      "rarety": "Rare",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets d'Invocations",
+      "name": "Bâton du python",
+      "price": "2000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=baton-du-python",
+      "rarety": "Peu Commun",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets d'Invocations",
+      "name": "Figurine Merveilleuse - Chien d'onyx",
+      "price": "3000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=figurine-merveilleuse",
+      "rarety": "Rare",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets d'Invocations",
+      "name": "Figurine Merveilleuse - Corbeau d'argent",
+      "price": "5000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=figurine-merveilleuse",
+      "rarety": "Peu Commun",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets d'Invocations",
+      "name": "Cor du Valhalla (Argent)",
+      "price": "5600",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=cor-du-valhalla",
+      "rarety": "Rare",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets d'Invocations",
+      "name": "Figurine Merveilleuse - Éléphant de marbre",
+      "price": "6000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=figurine-merveilleuse",
+      "rarety": "Rare",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets d'Invocations",
+      "name": "Brasero de contrôle des élémentaires du feu",
+      "price": "8000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=brasero-de-controle-des-elementaires-du-feu",
+      "rarety": "Rare",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets d'Invocations",
+      "name": "Encensoir de contrôle des élémentaires de l'air",
+      "price": "8000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=encensoir-de-controle-des-elementaires-de-l-air",
+      "rarety": "Rare",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets d'Invocations",
+      "name": "Jatte de contrôle des élémentaires de l'eau",
+      "price": "8000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=jatte-de-controle-des-elementaires-de-l-eau",
+      "rarety": "Rare",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets d'Invocations",
+      "name": "Pierre de contrôle des élémentaires de la terre",
+      "price": "8000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=pierre-de-controle-des-elementaires-de-la-terre",
+      "rarety": "Rare",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets d'Invocations",
+      "name": "Cor du Valhalla (Airain)",
+      "price": "8400",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=cor-du-valhalla",
+      "rarety": "Rare",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets d'Invocations",
+      "name": "Cor du Valhalla (Bronze)",
+      "price": "11200",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=cor-du-valhalla",
+      "rarety": "Très Rare",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets d'Invocations",
+      "name": "Cor du Valhalla (Fer)",
+      "price": "14000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=cor-du-valhalla",
+      "rarety": "Légendaire",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets d'Invocations",
+      "name": "Figurine Merveilleuse - Boucs d'ivoire (Terreur)",
+      "price": "20000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=figurine-merveilleuse",
+      "rarety": "Rare",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Martiaux",
+      "name": "Arme vicieuse",
+      "price": "350",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=arme-vicieuse",
+      "rarety": "Rare",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Martiaux",
+      "name": "Armure d'adamantium",
+      "price": "500",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=armure-d-adamantium",
+      "rarety": "Peu Commun",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Martiaux",
+      "name": "Armure de mithral",
+      "price": "800",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=armure-de-mithral",
+      "rarety": "Peu Commun",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Martiaux",
+      "name": "Arme +1",
+      "price": "1000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=arme-1-2-ou-3",
+      "rarety": "Peu Commun",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Martiaux",
+      "name": "Épée voleuse de vie",
+      "price": "1000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=epee-voleuse-de-vie",
+      "rarety": "Rare",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Martiaux",
+      "name": "Baguette du mage de guerre +1",
+      "price": "1200",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=baguette-du-mage-de-guerre-1-2-ou-3",
+      "rarety": "Peu Commun",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Martiaux",
+      "name": "Pierre de Ioun (Protection)",
+      "price": "1200",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=pierre-de-ioun",
+      "rarety": "Rare",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Martiaux",
+      "name": "Bracelets d'archer",
+      "price": "1500",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=bracelets-d-archer",
+      "rarety": "Peu Commun",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Martiaux",
+      "name": "Collier de perles de prière (Châtiment)",
+      "price": "1500",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=collier-de-perles-de-priere",
+      "rarety": "Rare",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Martiaux",
+      "name": "Diadème de destruction",
+      "price": "1500",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=diademe-de-destruction",
+      "rarety": "Peu Commun",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Martiaux",
+      "name": "Éventail enchanté",
+      "price": "1500",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=eventail-enchante",
+      "rarety": "Peu Commun",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Martiaux",
+      "name": "Javeline de foudre",
+      "price": "1500",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=javeline-de-foudre",
+      "rarety": "Peu Commun",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Martiaux",
+      "name": "Épée acérée",
+      "price": "1700",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=epee-aceree",
+      "rarety": "Rare",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Martiaux",
+      "name": "Bâton de la vipère",
+      "price": "1800",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=baton-de-la-vipere",
+      "rarety": "Peu Commun",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Martiaux",
+      "name": "Armure de cuir clouté enchantée",
+      "price": "2000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=armure-de-cuir-cloute-enchantee",
+      "rarety": "Rare",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Martiaux",
+      "name": "Collier de perles de prière (Bénédiction)",
+      "price": "2000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=collier-de-perles-de-priere",
+      "rarety": "Rare",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Martiaux",
+      "name": "Épée dansante",
+      "price": "2000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=epee-dansante",
+      "rarety": "Très Rare",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Martiaux",
+      "name": "Épée incisive",
+      "price": "2000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=epee-incisive",
+      "rarety": "Rare",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Martiaux",
+      "name": "Flûte des égouts",
+      "price": "2000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=flute-des-egouts",
+      "rarety": "Peu Commun",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Martiaux",
+      "name": "Selle du cavalier",
+      "price": "2000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=selle-du-cavalier",
+      "rarety": "Peu Commun",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Martiaux",
+      "name": "Fer gelé",
+      "price": "2200",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=fer-gele",
+      "rarety": "Très Rare",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Martiaux",
+      "name": "Dague venimeuse",
+      "price": "2500",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=dague-venimeuse",
+      "rarety": "Rare",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Martiaux",
+      "name": "Bâton de flétrissement",
+      "price": "3000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=baton-de-fletrissement",
+      "rarety": "Rare",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Martiaux",
+      "name": "Gants piégeurs de projectiles",
+      "price": "3000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=gants-piegeurs-de-projectiles",
+      "rarety": "Peu Commun",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Martiaux",
+      "name": "Pierre de Ioun (Agilité)",
+      "price": "3000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=pierre-de-ioun",
+      "rarety": "Très Rare",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Martiaux",
+      "name": "Pierre de Ioun (Dirigeant)",
+      "price": "3000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=pierre-de-ioun",
+      "rarety": "Très Rare",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Martiaux",
+      "name": "Pierre de Ioun (Force)",
+      "price": "3000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=pierre-de-ioun",
+      "rarety": "Très Rare",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Martiaux",
+      "name": "Pierre de Ioun (Intellect)",
+      "price": "3000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=pierre-de-ioun",
+      "rarety": "Très Rare",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Martiaux",
+      "name": "Pierre de Ioun (Intuition)",
+      "price": "3000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=pierre-de-ioun",
+      "rarety": "Très Rare",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Martiaux",
+      "name": "Pierre de Ioun (Vigueur)",
+      "price": "3000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=pierre-de-ioun",
+      "rarety": "Très Rare",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Martiaux",
+      "name": "Anneau de protection",
+      "price": "3500",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=anneau-de-protection",
+      "rarety": "Rare",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Martiaux",
+      "name": "Arc du serment",
+      "price": "3500",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=arc-du-serment",
+      "rarety": "Très Rare",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Martiaux",
+      "name": "Cape de protection",
+      "price": "3500",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=cape-de-protection",
+      "rarety": "Peu Commun",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Martiaux",
+      "name": "Arme +2",
+      "price": "4000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=arme-1-2-ou-3",
+      "rarety": "Rare",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Martiaux",
+      "name": "Armure d'écailles de dragon",
+      "price": "4000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=armure-d-ecailles-de-dragon",
+      "rarety": "Très Rare",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Martiaux",
+      "name": "Baguette de détection de l'ennemi",
+      "price": "4000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=baguette-de-detection-de-l-ennemi",
+      "rarety": "Rare",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Martiaux",
+      "name": "Bottes de rapidité",
+      "price": "4000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=bottes-de-rapidite",
+      "rarety": "Rare",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Martiaux",
+      "name": "Collier de perles de prière (Soins)",
+      "price": "4000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=collier-de-perles-de-priere",
+      "rarety": "Rare",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Martiaux",
+      "name": "Corde d'enchevêtrement",
+      "price": "4000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=corde-d-enchevetrement",
+      "rarety": "Rare",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Martiaux",
+      "name": "Liens de fer de Bilarro",
+      "price": "4000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=liens-de-fer-de-bilarro",
+      "rarety": "Rare",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Martiaux",
+      "name": "Mailles elfiques",
+      "price": "4000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=mailles-elfiques",
+      "rarety": "Rare",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Martiaux",
+      "name": "Pierre de Ioun (Régénération)",
+      "price": "4000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=pierre-de-ioun",
+      "rarety": "Légendaire",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Martiaux",
+      "name": "Pierre porte-bonheur",
+      "price": "4200",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=pierre-porte-bonheur",
+      "rarety": "Peu Commun",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Martiaux",
+      "name": "Baguette du mage de guerre +2",
+      "price": "4800",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=baguette-du-mage-de-guerre-1-2-ou-3",
+      "rarety": "Rare",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Martiaux",
+      "name": "Amulette de bonne santé (Periapt of Health)",
+      "price": "5000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=amulette-de-bonne-sante",
+      "rarety": "Peu Commun",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Martiaux",
+      "name": "Anneau d'esquive totale",
+      "price": "5000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=anneau-d-esquive-totale",
+      "rarety": "Rare",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Martiaux",
+      "name": "Anneau du bélier",
+      "price": "5000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=anneau-du-belier",
+      "rarety": "Rare",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Martiaux",
+      "name": "Épée ardente",
+      "price": "5000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=epee-ardente",
+      "rarety": "Rare",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Martiaux",
+      "name": "Sceptre tentacule",
+      "price": "5000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=sceptre-tentacule",
+      "rarety": "Rare",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Martiaux",
+      "name": "Anneau de résistance",
+      "price": "6000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=anneau-de-resistance",
+      "rarety": "Rare",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Martiaux",
+      "name": "Armure de résistance",
+      "price": "6000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=armure-de-resistance",
+      "rarety": "Rare",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Martiaux",
+      "name": "Bouclier animé",
+      "price": "6000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=bouclier-anime",
+      "rarety": "Très Rare",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Martiaux",
+      "name": "Bouclier antiprojectiles",
+      "price": "6000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=bouclier-antiprojectiles",
+      "rarety": "Rare",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Martiaux",
+      "name": "Bouclier d'attraction des projectiles",
+      "price": "6000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=bouclier-d-attraction-des-projectiles",
+      "rarety": "Rare",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Martiaux",
+      "name": "Bracelets de défense",
+      "price": "6000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=bracelets-de-defense",
+      "rarety": "Rare",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Martiaux",
+      "name": "Ceinturon des nains",
+      "price": "6000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=ceinturon-des-nains",
+      "rarety": "Rare",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Martiaux",
+      "name": "Cimeterre de rapidité",
+      "price": "6000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=cimeterre-de-rapidite",
+      "rarety": "Très Rare",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Martiaux",
+      "name": "Flûte terrifiante",
+      "price": "6000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=flute-terrifiante",
+      "rarety": "Peu Commun",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Martiaux",
+      "name": "Perle de pouvoir",
+      "price": "6000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=perle-de-pouvoir",
+      "rarety": "Peu Commun",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Martiaux",
+      "name": "Pierre de Ioun (Réserve)",
+      "price": "6000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=pierre-de-ioun",
+      "rarety": "Rare",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Martiaux",
+      "name": "Robe prismatique",
+      "price": "6000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=robe-prismatique",
+      "rarety": "Très Rare",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Martiaux",
+      "name": "Masse destructrice",
+      "price": "7000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=masse-destructrice",
+      "rarety": "Rare",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Martiaux",
+      "name": "Tueuse de géants",
+      "price": "7000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=tueuse-de-geants",
+      "rarety": "Rare",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Martiaux",
+      "name": "Broche de défense",
+      "price": "7500",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=broche-de-defense",
+      "rarety": "Peu Commun",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Martiaux",
+      "name": "Amulette de bonne santé",
+      "price": "8000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=amulette-de-bonne-sante",
+      "rarety": "Rare",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Martiaux",
+      "name": "Baguette de projectiles magiques",
+      "price": "8000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=baguette-de-projectiles-magiques",
+      "rarety": "Peu Commun",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Martiaux",
+      "name": "Baguette de toile d'araignée",
+      "price": "8000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=baguette-de-toile-d-araignee",
+      "rarety": "Peu Commun",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Martiaux",
+      "name": "Bandeau d'intelligence",
+      "price": "8000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=bandeau-d-intelligence",
+      "rarety": "Peu Commun",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Martiaux",
+      "name": "Gantelets de puissance d'ogre",
+      "price": "8000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=gantelets-de-puissance-d-ogre",
+      "rarety": "Peu Commun",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Martiaux",
+      "name": "Masse d'anéantissement",
+      "price": "8000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=masse-d-aneantissement",
+      "rarety": "Rare",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Martiaux",
+      "name": "Masse terrifiante",
+      "price": "8000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=masse-terrifiante",
+      "rarety": "Rare",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Martiaux",
+      "name": "Tueuse de dragons",
+      "price": "8000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=tueuse-de-dragons",
+      "rarety": "Rare",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Martiaux",
+      "name": "Voleuse des neuf vies (Pleine charge)",
+      "price": "8000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=voleuse-des-neuf-vies",
+      "rarety": "Très Rare",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Martiaux",
+      "name": "Baguette de peur",
+      "price": "10000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=baguette-de-peur",
+      "rarety": "Rare",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Martiaux",
+      "name": "Baguette d'entraves",
+      "price": "10000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=baguette-d-entraves",
+      "rarety": "Rare",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Martiaux",
+      "name": "Bâton de tonnerre et de foudre",
+      "price": "10000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=baton-de-tonnerre-et-de-foudre",
+      "rarety": "Très Rare",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Martiaux",
+      "name": "Bâton d'envoûtement",
+      "price": "12000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=baton-d-envoutement",
+      "rarety": "Rare",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Martiaux",
+      "name": "Épée radieuse",
+      "price": "12000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=epee-radieuse",
+      "rarety": "Rare",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Martiaux",
+      "name": "Pierre de Ioun (Vigilance)",
+      "price": "12000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=pierre-de-ioun",
+      "rarety": "Rare",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Martiaux",
+      "name": "Sceptre du gardien des pactes +1",
+      "price": "12000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=sceptre-du-gardien-des-pactes",
+      "rarety": "Rare",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Martiaux",
+      "name": "Bâton de guérison",
+      "price": "13000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=baton-de-guerison",
+      "rarety": "Rare",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Martiaux",
+      "name": "Anneau de feu d'étoiles",
+      "price": "14000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=anneau-de-feu-d-etoiles",
+      "rarety": "Très Rare",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Martiaux",
+      "name": "Pierre de Ioun (Maîtrise)",
+      "price": "15000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=pierre-de-ioun",
+      "rarety": "Légendaire",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Martiaux",
+      "name": "Arme +3",
+      "price": "16000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=arme-1-2-ou-3",
+      "rarety": "Très Rare",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Martiaux",
+      "name": "Baguette de paralysie",
+      "price": "16000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=baguette-de-paralysie",
+      "rarety": "Rare",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Martiaux",
+      "name": "Bâton de feu",
+      "price": "16000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=baton-de-feu",
+      "rarety": "Très Rare",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Martiaux",
+      "name": "Bâton de grand essaim",
+      "price": "16000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=baton-de-grand-essaim",
+      "rarety": "Rare",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Martiaux",
+      "name": "Marteau de tonnerre",
+      "price": "16000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=marteau-de-tonnerre",
+      "rarety": "Légendaire",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Martiaux",
+      "name": "Sceptre du gardien des pactes +2",
+      "price": "16000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=sceptre-du-gardien-des-pactes",
+      "rarety": "Rare",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Martiaux",
+      "name": "Anneau de contrôle des élémentaires de feu",
+      "price": "17000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=anneau-de-controle-des-elementaires",
+      "rarety": "Légendaire",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Martiaux",
+      "name": "Marteau de lancer nain",
+      "price": "18000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=marteau-de-lancer-nain",
+      "rarety": "Très Rare",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Martiaux",
+      "name": "Baguette du mage de guerre +3",
+      "price": "19200",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=baguette-du-mage-de-guerre-1-2-ou-3",
+      "rarety": "Très Rare",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Martiaux",
+      "name": "Anneau d'action libre",
+      "price": "20000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=anneau-d-action-libre",
+      "rarety": "Rare",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Martiaux",
+      "name": "Bouclier sentinelle",
+      "price": "20000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=bouclier-sentinelle",
+      "rarety": "Peu Commun",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Martiaux",
+      "name": "Mailles éfrit",
+      "price": "20000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=mailles-efrit",
+      "rarety": "Légendaire",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Martiaux",
+      "name": "Bâton percussif",
+      "price": "21000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=baton-percussif",
+      "rarety": "Très Rare",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Martiaux",
+      "name": "Anneau de stockage de sort",
+      "price": "24000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=anneau-de-stockage-de-sort",
+      "rarety": "Rare",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Martiaux",
+      "name": "Épée vorpale",
+      "price": "24000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=epee-vorpale",
+      "rarety": "Légendaire",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Martiaux",
+      "name": "Anneau de contrôle des élémentaires d'eau",
+      "price": "25000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=anneau-de-controle-des-elementaires",
+      "rarety": "Légendaire",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Martiaux",
+      "name": "Sceptre de vigilance",
+      "price": "25000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=sceptre-de-vigilance",
+      "rarety": "Très Rare",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Martiaux",
+      "name": "Bâton de givre",
+      "price": "26000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=baton-de-givre",
+      "rarety": "Très Rare",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Martiaux",
+      "name": "Instrument de barde - Bandore de Fochluchan",
+      "price": "26500",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=instrument-de-barde",
+      "rarety": "Peu Commun",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Martiaux",
+      "name": "Instrument de barde - Cistre de Mac-Fuirmidh",
+      "price": "27000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=instrument-de-barde",
+      "rarety": "Peu Commun",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Martiaux",
+      "name": "Sceptre de puissance seigneuriale",
+      "price": "28000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=sceptre-de-puissance-seigneuriale",
+      "rarety": "Légendaire",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Martiaux",
+      "name": "Sceptre du gardien des pactes +3",
+      "price": "28000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=sceptre-du-gardien-des-pactes",
+      "rarety": "Très Rare",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Martiaux",
+      "name": "Instrument de barde - Luth de Doss",
+      "price": "28500",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=instrument-de-barde",
+      "rarety": "Peu Commun",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Martiaux",
+      "name": "Anneau de renvoi des sorts",
+      "price": "30000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=anneau-de-renvoi-des-sorts",
+      "rarety": "Légendaire",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Martiaux",
+      "name": "Instrument de barde - Mandoline de Canaith",
+      "price": "30000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=instrument-de-barde",
+      "rarety": "Rare",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Martiaux",
+      "name": "Manteau de résistance aux sorts",
+      "price": "30000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=manteau-de-resistance-aux-sorts",
+      "rarety": "Rare",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Martiaux",
+      "name": "Baguette de boules de feu",
+      "price": "32000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=baguette-de-boules-de-feu",
+      "rarety": "Rare",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Martiaux",
+      "name": "Baguette de métamorphose",
+      "price": "32000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=baguette-de-metamorphose",
+      "rarety": "Très Rare",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Martiaux",
+      "name": "Baguette d'éclairs",
+      "price": "32000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=baguette-d-eclairs",
+      "rarety": "Rare",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Martiaux",
+      "name": "Collier de perles de prière - Faveur",
+      "price": "32000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=collier-de-perles-de-priere",
+      "rarety": "Rare",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Martiaux",
+      "name": "Instrument de barde - Lyre de Cli",
+      "price": "35000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=instrument-de-barde",
+      "rarety": "Rare",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Martiaux",
+      "name": "Épée de réponse",
+      "price": "36000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=epee-de-reponse",
+      "rarety": "Légendaire",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Martiaux",
+      "name": "Scarabée de protection",
+      "price": "36000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=scarabee-de-protection",
+      "rarety": "Légendaire",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Martiaux",
+      "name": "Bâton des forêts",
+      "price": "44000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=baton-des-forets",
+      "rarety": "Rare",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Martiaux",
+      "name": "Bouclier gardesort",
+      "price": "50000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=bouclier-gardesort",
+      "rarety": "Très Rare",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Martiaux",
+      "name": "Arme vigilante",
+      "price": "60000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=arme-vigilante",
+      "rarety": "Peu Commun",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Martiaux",
+      "name": "Cape de déplacement",
+      "price": "60000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=cape-de-deplacement",
+      "rarety": "Rare",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Martiaux",
+      "name": "Robe aux étoiles",
+      "price": "60000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=robe-aux-etoiles",
+      "rarety": "Très Rare",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Martiaux",
+      "name": "Collier de perles de prière - Vent",
+      "price": "96000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=collier-de-perles-de-priere",
+      "rarety": "Rare",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Martiaux",
+      "name": "Instrument de barde - Harpe d'Anstruth",
+      "price": "109000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=instrument-de-barde",
+      "rarety": "Très Rare",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Martiaux",
+      "name": "Instrument de barde - Harpe d'Ollamh",
+      "price": "125000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=instrument-de-barde",
+      "rarety": "Légendaire",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Martiaux",
+      "name": "Collier de perles de prière - Invocation",
+      "price": "128000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=collier-de-perles-de-priere",
+      "rarety": "Rare",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Martiaux",
+      "name": "Vengeresse sacrée",
+      "price": "165000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=vengeresse-sacree",
+      "rarety": "Légendaire",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Non-Offensifs",
+      "name": "Heaume de compréhension des langues",
+      "price": "500",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=heaume-de-comprehension-des-langues",
+      "rarety": "Peu Commun",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Non-Offensifs",
+      "name": "Globe flottant",
+      "price": "750",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=globe-flottant",
+      "rarety": "Peu Commun",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Non-Offensifs",
+      "name": "Trident de domination aquatique",
+      "price": "800",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=trident-de-domination-aquatique",
+      "rarety": "Peu Commun",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Non-Offensifs",
+      "name": "Anneau de chaleur constante",
+      "price": "1000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=anneau-de-chaleur-constante",
+      "rarety": "Peu Commun",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Non-Offensifs",
+      "name": "Bouteille fumigène",
+      "price": "1000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=bouteille-fumigene",
+      "rarety": "Peu Commun",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Non-Offensifs",
+      "name": "Capuchon de respiration aquatique",
+      "price": "1000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=capuchon-de-respiration-aquatique",
+      "rarety": "Peu Commun",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Non-Offensifs",
+      "name": "Carquois d'Ehlonna",
+      "price": "1000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=carquois-d-ehlonna",
+      "rarety": "Peu Commun",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Non-Offensifs",
+      "name": "Pierre de Ioun (Nourriture)",
+      "price": "1000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=pierre-de-ioun",
+      "rarety": "Rare",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Non-Offensifs",
+      "name": "Anneau de marche sur l'eau",
+      "price": "1500",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=anneau-de-marche-sur-l-eau",
+      "rarety": "Peu Commun",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Non-Offensifs",
+      "name": "Armure de matelot",
+      "price": "1500",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=armure-de-matelot",
+      "rarety": "Peu Commun",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Non-Offensifs",
+      "name": "Baguette de détection de la magie",
+      "price": "1500",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=baguette-de-detection-de-la-magie",
+      "rarety": "Peu Commun",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Non-Offensifs",
+      "name": "Baguette des secrets",
+      "price": "1500",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=baguette-des-secrets",
+      "rarety": "Peu Commun",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Non-Offensifs",
+      "name": "Collier d'adaptation",
+      "price": "1500",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=collier-d-adaptation",
+      "rarety": "Peu Commun",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Non-Offensifs",
+      "name": "Fers de zéphyr",
+      "price": "1500",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=fers-de-zephyr",
+      "rarety": "Très Rare",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Non-Offensifs",
+      "name": "Lunettes de nuit",
+      "price": "1500",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=lunettes-de-nuit",
+      "rarety": "Peu Commun",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Non-Offensifs",
+      "name": "Anneau de feuille morte",
+      "price": "2000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=anneau-de-feuille-morte",
+      "rarety": "Rare",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Non-Offensifs",
+      "name": "Corde d'escalade",
+      "price": "2000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=corde-d-escalade",
+      "rarety": "Peu Commun",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Non-Offensifs",
+      "name": "Gants de nage et d'escalade",
+      "price": "2000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=gants-de-nage-et-d-escalade",
+      "rarety": "Peu Commun",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Non-Offensifs",
+      "name": "Havresac magique d'Hévard",
+      "price": "2000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=havresac-magique-d-hevard",
+      "rarety": "Rare",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Non-Offensifs",
+      "name": "Anneau de saut",
+      "price": "2500",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=anneau-de-saut",
+      "rarety": "Peu Commun",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Non-Offensifs",
+      "name": "Bottes elfiques",
+      "price": "2500",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=bottes-elfiques",
+      "rarety": "Peu Commun",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Non-Offensifs",
+      "name": "Yeux de lynx",
+      "price": "2500",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=yeux-de-lynx",
+      "rarety": "Peu Commun",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Non-Offensifs",
+      "name": "Yeux grossissants",
+      "price": "2500",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=yeux-grossissants",
+      "rarety": "Peu Commun",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Non-Offensifs",
+      "name": "Anneau de nage",
+      "price": "3000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=anneau-de-nage",
+      "rarety": "Peu Commun",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Non-Offensifs",
+      "name": "Médaillon des pensées",
+      "price": "3000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=medaillon-des-pensees",
+      "rarety": "Peu Commun",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Non-Offensifs",
+      "name": "Menottes dimensionnelles",
+      "price": "3000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=menottes-dimensionnelles",
+      "rarety": "Rare",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Non-Offensifs",
+      "name": "Regard charmeur",
+      "price": "3000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=regard-charmeur",
+      "rarety": "Peu Commun",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Non-Offensifs",
+      "name": "Anneau d'influence sur les animaux",
+      "price": "4000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=anneau-d-influence-sur-les-animaux",
+      "rarety": "Rare",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Non-Offensifs",
+      "name": "Bottes de lévitation",
+      "price": "4000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=bottes-de-levitation",
+      "rarety": "Rare",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Non-Offensifs",
+      "name": "Sac sans fond",
+      "price": "4000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=sac-sans-fond",
+      "rarety": "Peu Commun",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Non-Offensifs",
+      "name": "Amulette antidote",
+      "price": "5000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=amulette-antidote",
+      "rarety": "Rare",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Non-Offensifs",
+      "name": "Amulette de bonne santé (Periapt of Health)",
+      "price": "5000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=amulette-de-bonne-sante",
+      "rarety": "Peu Commun",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Non-Offensifs",
+      "name": "Bottes de sept lieues",
+      "price": "5000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=bottes-de-sept-lieues",
+      "rarety": "Peu Commun",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Non-Offensifs",
+      "name": "Cape de l'arachnide",
+      "price": "5000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=cape-de-l-arachnide",
+      "rarety": "Très Rare",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Non-Offensifs",
+      "name": "Cape elfique",
+      "price": "5000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=cape-elfique",
+      "rarety": "Peu Commun",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Non-Offensifs",
+      "name": "Chapeau de déguisement",
+      "price": "5000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=chapeau-de-deguisement",
+      "rarety": "Peu Commun",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Non-Offensifs",
+      "name": "Chaussons de pattes d'araignée",
+      "price": "5000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=chaussons-de-pattes-d-araignee",
+      "rarety": "Peu Commun",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Non-Offensifs",
+      "name": "Fers de rapidité",
+      "price": "5000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=fers-de-rapidite",
+      "rarety": "Rare",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Non-Offensifs",
+      "name": "Gants de chapardeur",
+      "price": "5000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=gants-de-chapardeur",
+      "rarety": "Peu Commun",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Non-Offensifs",
+      "name": "Lanterne de révélation",
+      "price": "5000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=lanterne-de-revelation",
+      "rarety": "Peu Commun",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Non-Offensifs",
+      "name": "Sceptre inamovible",
+      "price": "5000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=sceptre-inamovible",
+      "rarety": "Peu Commun",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Non-Offensifs",
+      "name": "Anneau de rayons X",
+      "price": "6000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=anneau-de-rayons-x",
+      "rarety": "Rare",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Non-Offensifs",
+      "name": "Cape de la chauve-souris",
+      "price": "6000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=cape-de-la-chauve-souris",
+      "rarety": "Rare",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Non-Offensifs",
+      "name": "Cape de la raie manta",
+      "price": "6000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=cape-de-la-raie-manta",
+      "rarety": "Peu Commun",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Non-Offensifs",
+      "name": "Cape du prestidigitateur",
+      "price": "8000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=cape-du-prestidigitateur",
+      "rarety": "Rare",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Non-Offensifs",
+      "name": "Puits portatif",
+      "price": "8000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=puits-portatif",
+      "rarety": "Rare",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Non-Offensifs",
+      "name": "Anneau d'invisibilité",
+      "price": "10000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=anneau-d-invisibilite",
+      "rarety": "Légendaire",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Non-Offensifs",
+      "name": "Bateau pliable",
+      "price": "10000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=bateau-pliable",
+      "rarety": "Rare",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Non-Offensifs",
+      "name": "Bottes des terres gelées",
+      "price": "10000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=bottes-des-terres-gelees",
+      "rarety": "Peu Commun",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Non-Offensifs",
+      "name": "Submersible de Kwalish",
+      "price": "10000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=submersible-de-kwalish",
+      "rarety": "Légendaire",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Non-Offensifs",
+      "name": "Heaume de télépathie",
+      "price": "12000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=heaume-de-telepathie",
+      "rarety": "Peu Commun",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Non-Offensifs",
+      "name": "Anneau de barrière mentale",
+      "price": "16000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=anneau-de-barriere-mentale",
+      "rarety": "Peu Commun",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Non-Offensifs",
+      "name": "Cube de force",
+      "price": "16000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=cube-de-force",
+      "rarety": "Rare",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Non-Offensifs",
+      "name": "Sceptre de suzeraineté",
+      "price": "16000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=sceptre-de-suzerainete",
+      "rarety": "Rare",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Non-Offensifs",
+      "name": "Miroir d'emprisonnement",
+      "price": "18000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=miroir-d-emprisonnement",
+      "rarety": "Très Rare",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Non-Offensifs",
+      "name": "Amulette d'anti-détection",
+      "price": "20000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=amulette-d-anti-detection",
+      "rarety": "Peu Commun ",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Non-Offensifs",
+      "name": "Robe de vision totale",
+      "price": "30000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=robe-de-vision-totale",
+      "rarety": "Rare",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Non-Offensifs",
+      "name": "Gemme de vision",
+      "price": "32000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=gemme-de-vision",
+      "rarety": "Rare",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Objets Non-Offensifs",
+      "name": "Harnois éthéré",
+      "price": "48000",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=harnois-ethere",
+      "rarety": "Légendaire",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Autres",
+      "name": "Amulette de Cicatrisation",
+      "price": "",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=amulette-de-cicatrisation",
+      "rarety": "Peu Commun",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Autres",
+      "name": "Anneau de Convocation de Djinn",
+      "price": "",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=anneau-de-convocation-de-djinn",
+      "rarety": "Légendaire",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Autres",
+      "name": "Anneau de Résistance au Poison",
+      "price": "",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=anneau-de-resistance-au-poison",
+      "rarety": "Rare",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Autres",
+      "name": "Anneau de Triple Souhait",
+      "price": "",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=anneau-de-triple-souhait",
+      "rarety": "Légendaire",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Autres",
+      "name": "Armure de Vulnérabilité",
+      "price": "",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=armure-de-vulnerabilite",
+      "rarety": "Rare",
+      "link": true,
+      "cursed": true,
+      "sentient": false
+    },
+    {
+      "type": "Autres",
+      "name": "Armure Démoniaque",
+      "price": "",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=armure-demoniaque",
+      "rarety": "Très Rare",
+      "link": true,
+      "cursed": true,
+      "sentient": false
+    },
+    {
+      "type": "Autres",
+      "name": "Bâton du Thaumaturge",
+      "price": "",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=baton-du-thaumaturge",
+      "rarety": "Légendaire",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Autres",
+      "name": "Bouteille de l'Efrit",
+      "price": "",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=bouteille-de-l-efrit",
+      "rarety": "Très Rare",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Autres",
+      "name": "Cartes Merveilleuse",
+      "price": "",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=cartes-merveilleuses",
+      "rarety": "Légendaire",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Autres",
+      "name": "Ceinturon de Force de Géant des Collines",
+      "price": "",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=ceinturon-de-force-de-geant",
+      "rarety": "Rare",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Autres",
+      "name": "Ceinturon de Force de Géant de Pierre / du Givre",
+      "price": "",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=ceinturon-de-force-de-geant",
+      "rarety": "Très Rare",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Autres",
+      "name": "Ceinturon de Force de Géant du Feu",
+      "price": "",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=ceinturon-de-force-de-geant",
+      "rarety": "Très Rare",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Autres",
+      "name": "Ceinturon de Force de Géant des Nuages",
+      "price": "",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=ceinturon-de-force-de-geant",
+      "rarety": "Légendaire",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Autres",
+      "name": "Ceinturon de Force de Géant des Tempêtes",
+      "price": "",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=ceinturon-de-force-de-geant",
+      "rarety": "Légendaire",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Autres",
+      "name": "Cierge d'Invocation",
+      "price": "",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=cierge-d-invocation",
+      "rarety": "Très Rare",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Autres",
+      "name": "Déluge",
+      "price": "",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=deluge",
+      "rarety": "Légendaire",
+      "link": true,
+      "cursed": false,
+      "sentient": true
+    },
+    {
+      "type": "Autres",
+      "name": "Epée Vengeresse",
+      "price": "",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=epee-vengeresse",
+      "rarety": "Peu Commun",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Autres",
+      "name": "Flasque de Fer",
+      "price": "",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=flasque-de-fer",
+      "rarety": "Légendaire",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Autres",
+      "name": "Hache du Berserker",
+      "price": "",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=hache-du-berserker",
+      "rarety": "Rare",
+      "link": true,
+      "cursed": true,
+      "sentient": false
+    },
+    {
+      "type": "Autres",
+      "name": "Heaume Scintillant",
+      "price": "",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=heaume-scintillant",
+      "rarety": "Très Rare",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Autres",
+      "name": "Lame Porte-Bonheur",
+      "price": "",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=lame-porte-bonheur",
+      "rarety": "Légendaire",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Autres",
+      "name": "Lamelune",
+      "price": "",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=lamelune",
+      "rarety": "Légendaire",
+      "link": true,
+      "cursed": false,
+      "sentient": true
+    },
+    {
+      "type": "Autres",
+      "name": "Manuel d'Exercices Physiques",
+      "price": "",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=manuel-d-exercices-physiques",
+      "rarety": "Très Rare",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Autres",
+      "name": "Manuel de Vitalité",
+      "price": "",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=manuel-de-vitalite",
+      "rarety": "Très Rare",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Autres",
+      "name": "Manuel de Vivacité",
+      "price": "",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=manuel-de-vivacite",
+      "rarety": "Très Rare",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Autres",
+      "name": "Manuel des Golems",
+      "price": "",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=manuel-des-golems",
+      "rarety": "Très Rare",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Autres",
+      "name": "Noir Rasoir",
+      "price": "",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=noir-rasoir",
+      "rarety": "Légendaire",
+      "link": true,
+      "cursed": false,
+      "sentient": true
+    },
+    {
+      "type": "Autres",
+      "name": "Sac à Malices",
+      "price": "",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=sac-a-malices",
+      "rarety": "Peu Commun",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Autres",
+      "name": "Sac de Haricots",
+      "price": "",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=sac-de-haricots",
+      "rarety": "Rare",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Autres",
+      "name": "Sac Dévoreur",
+      "price": "",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=sac-devoreur",
+      "rarety": "Très Rare",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Autres",
+      "name": "Sceptre de Résurrection",
+      "price": "",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=sceptre-de-resurrection",
+      "rarety": "Légendaire",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Autres",
+      "name": "Tome de la Langue Nouée",
+      "price": "",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=tome-de-la-langue-nouee",
+      "rarety": "Légendaire",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Autres",
+      "name": "Traité d'Autorité et d'Influence",
+      "price": "",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=traite-d-autorite-et-d-influence",
+      "rarety": "Très Rare",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Autres",
+      "name": "Traité de Compréhension",
+      "price": "",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=traite-de-comprehension",
+      "rarety": "Très Rare",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Autres",
+      "name": "Traité de Perspicacité",
+      "price": "",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=traite-de-perspicacite",
+      "rarety": "Très Rare",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Autres",
+      "name": "Vague",
+      "price": "",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=vague",
+      "rarety": "Légendaire",
+      "link": true,
+      "cursed": false,
+      "sentient": true
+    },
+    {
+      "type": "Babioles",
+      "name": "Amulette mécanique",
+      "price": "200",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=amulette-mecanique",
+      "rarety": "Commun",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Babioles",
+      "name": "Armure Fumante",
+      "price": "Base + 10",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=armure-fumante",
+      "rarety": "Commun",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Babioles",
+      "name": "Armure rapide",
+      "price": "Base + 15",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=armure-rapide",
+      "rarety": "Commun",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Babioles",
+      "name": "Armure rutilante",
+      "price": "Base + 10",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=armure-rutilante",
+      "rarety": "Commun",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Babioles",
+      "name": "Baguette de chef d'orchestre",
+      "price": "75",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=baguette-de-chef-d-orchestre",
+      "rarety": "Commun",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Babioles",
+      "name": "Baguette de pyrotechnicien",
+      "price": "100",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=baguette-de-pyrotechnicien",
+      "rarety": "Commun",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Babioles",
+      "name": "Baguette du grincheux",
+      "price": "50",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=baguette-du-grincheux",
+      "rarety": "Commun",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Babioles",
+      "name": "Baguette du jovial",
+      "price": "50",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=baguette-du-jovial",
+      "rarety": "Commun",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Babioles",
+      "name": "Bâton des chants d'oiseaux",
+      "price": "75",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=baton-des-chants-d-oiseaux",
+      "rarety": "Commun",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Babioles",
+      "name": "Bâton floral",
+      "price": "30",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=baton-floral",
+      "rarety": "Commun",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Babioles",
+      "name": "Bâton orné",
+      "price": "30",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=baton-orne",
+      "rarety": "Commun",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Babioles",
+      "name": "Bottes d'empreintes factices",
+      "price": "150",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=bottes-d-empreintes-factices",
+      "rarety": "Commun",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Babioles",
+      "name": "Bouclier expressif",
+      "price": "75",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=bouclier-expressif",
+      "rarety": "Commun",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Babioles",
+      "name": "Bourse à épices magique d'Heward\t",
+      "price": "40",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=bourse-a-epices-magique-d-heward",
+      "rarety": "Commun",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Babioles",
+      "name": "Cadenas sournois",
+      "price": "300",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=cadenas-sournois",
+      "rarety": "Commun",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Babioles",
+      "name": "Canne de vétéran",
+      "price": "150",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=canne-de-veteran",
+      "rarety": "Commun",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Babioles",
+      "name": "Cape à la mode",
+      "price": "100",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=cape-a-la-mode",
+      "rarety": "Commun",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Babioles",
+      "name": "Cape virevoltante",
+      "price": "100",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=cape-virevoltante",
+      "rarety": "Commun",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Babioles",
+      "name": "Chandelle des profondeurs",
+      "price": "75",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=chandelle-des-profondeurs",
+      "rarety": "Commun",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Babioles",
+      "name": "Chapeau de vermine",
+      "price": "150",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=chapeau-de-vermine",
+      "rarety": "Commun",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Babioles",
+      "name": "Chope de sobriété",
+      "price": "50",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=chope-de-sobriete",
+      "rarety": "Commun",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Babioles",
+      "name": "Clé mystérieuse",
+      "price": "100",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=cle-mysterieuse",
+      "rarety": "Commun",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Babioles",
+      "name": "Corde réparable",
+      "price": "75",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=corde-reparable",
+      "rarety": "Commun",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Babioles",
+      "name": "Corne d'alarme silencieuse",
+      "price": "150",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=corne-d-alarme-silencieuse",
+      "rarety": "Commun",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Babioles",
+      "name": "Cornet acoustique",
+      "price": "175",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=cornet-acoustique",
+      "rarety": "Commun",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Babioles",
+      "name": "Dé de charlatan",
+      "price": "300",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=de-de-charlatan",
+      "rarety": "Commun",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Babioles",
+      "name": "Épée de lumière lunaire",
+      "price": "Base + 75",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=epee-de-lumiere-lunaire",
+      "rarety": "Commun",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Babioles",
+      "name": "Flèche incassable (unité)",
+      "price": "1",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=fleche-incassable",
+      "rarety": "Commun",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Babioles",
+      "name": "Grimoire résistant",
+      "price": "150",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=grimoire-resistant",
+      "rarety": "Commun",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Babioles",
+      "name": "Heaume effrayant",
+      "price": "40",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=heaume-effrayant",
+      "rarety": "Commun",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Babioles",
+      "name": "Instrument à illusions",
+      "price": "Base + 30",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=instrument-a-illusions",
+      "rarety": "Commun",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Babioles",
+      "name": "Instrument à message",
+      "price": "Base + 75",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=instrument-a-message",
+      "rarety": "Commun",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Babioles",
+      "name": "Munition percutante",
+      "price": "Base * 10",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=munition-percutante",
+      "rarety": "Commun",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Babioles",
+      "name": "Oeil artificiel",
+      "price": "75",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=oeil-artificiel",
+      "rarety": "Commun",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Babioles",
+      "name": "Orbe boussole",
+      "price": "25",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=orbe-boussole",
+      "rarety": "Commun",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Babioles",
+      "name": "Orbe horloge",
+      "price": "25",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=orbe-horloge",
+      "rarety": "Commun",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Babioles",
+      "name": "Parfum envoûtant",
+      "price": "30",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=parfum-envoutant",
+      "rarety": "Commun",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Babioles",
+      "name": "Perche de pêcheur",
+      "price": "40",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=perche-de-pecheur",
+      "rarety": "Commun",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Babioles",
+      "name": "Perche rétractable",
+      "price": "15",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=perche-retractable",
+      "rarety": "Commun",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Babioles",
+      "name": "Perle désaltérante",
+      "price": "5",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=perle-desalterante",
+      "rarety": "Commun",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Babioles",
+      "name": "Perle nutritive",
+      "price": "2",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=perle-nutritive",
+      "rarety": "Commun",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Babioles",
+      "name": "Pipe des monstres de fumée",
+      "price": "20",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=pipe-des-monstres-de-fumee",
+      "rarety": "Commun",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Babioles",
+      "name": "Poupée qui parle",
+      "price": "90",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=poupee-qui-parle",
+      "rarety": "Commun",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Babioles",
+      "name": "Rubis du mage de guerre",
+      "price": "200",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=rubis-du-mage-de-guerre",
+      "rarety": "Commun",
+      "link": true,
+      "cursed": false,
+      "sentient": false
+    },
+    {
+      "type": "Babioles",
+      "name": "Vêtements raccommodeurs",
+      "price": "40",
+      "url": "https://www.aidedd.org/dnd/om.php?vf=vetements-raccommodeurs",
+      "rarety": "Commun",
+      "link": false,
+      "cursed": false,
+      "sentient": false
+    }
+  ]
+}

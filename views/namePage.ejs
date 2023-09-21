@@ -1,0 +1,78 @@
+<%- include('./partials/main_head'); %>
+
+    <main>
+      <div class="jumbotron">
+
+          <button class="btn btn-info" type="submit" onclick="location.reload();">Nouveaux</button>
+
+          <h1>Noms Génériques</h1>
+
+          <ul>
+            <% names.forEach(function(name) { %>
+              <li><%= name.name %></li>
+            <% }); %>
+          </ul>
+
+          <h1>Noms Ethniques (XGE)</h1>
+
+          <div class="container text-center">
+            <div class="row border border-secondary">
+              <div class="col border-end"><h4>Drakeides</h4></div>
+              <div class="col border-end"><h4>Demi-orcs</h4></div>
+              <div class="col border-end"><h4>Elfes</h4></div>
+              <div class="col"><h4>Gnomes</h4></div>
+            </div>
+            <div class="row border border-top-0 border-secondary">
+              <div class="col border-end">
+                <p><strong>Homme</strong>: <%= drakeide_names.male %><br />
+                <strong>Femme</strong>: <%= drakeide_names.female %><br />
+                <strong>Clan</strong>: <%= drakeide_names.clan %></p>
+              </div>
+              <div class="col border-end">
+                <p><strong>Homme</strong>: <%= demiorc_names.male %><br />
+                <strong>Femme</strong>: <%= demiorc_names.female %></p>
+              </div>
+              <div class="col border-end">
+                <p><strong>Homme</strong>: <%= elfe_names.male %><br />
+                <strong>Femme</strong>: <%= elfe_names.female %><br />
+                <strong>Enfant</strong>: <%= elfe_names.children %><br />
+                <strong>Nom de Famille</strong>: <%= elfe_names.family %></p>
+              </div>
+              <div class="col">
+                <p><strong>Homme</strong>: <%= gnome_names.male %><br />
+                <strong>Femme</strong>: <%= gnome_names.female %><br />
+                <strong>Clan</strong>: <%= gnome_names.clan %></p>
+              </div>
+            </div>
+            <div class="row border border-top-0 border-secondary">
+              <div class="col border-end"><h4>Halfelins</h4></div>
+              <div class="col border-end"><h4>Nains</h4></div>
+              <div class="col border-end"><h4>Tiefflins</h4></div>
+              <div class="col"><h4>Humains</h4></div>
+            </div>
+            <div class="row border border-top-0 border-secondary">
+              <div class="col border-end">
+                <p><strong>Homme</strong>: <%= halfling_names.male %><br />
+                <strong>Femme</strong>: <%= halfling_names.female %><br />
+                <strong>Nom de Famille</strong>: <%= halfling_names.family %></p>
+              </div>
+              <div class="col border-end">
+                <p><strong>Homme</strong>: <%= dwarf_names.male %><br />
+                <strong>Femme</strong>: <%= dwarf_names.female %><br />
+                <strong>Clan</strong>: <%= dwarf_names.clan %></p>
+              </div>
+              <div class="col border-end">
+                <p><strong>Homme</strong>: <%= tiefflin_names.male %><br />
+                <strong>Femme</strong>: <%= tiefflin_names.female %><br />
+                <strong>Vertu</strong>: <%= tiefflin_names.clan %></p>
+              </div>
+              <div class="col">
+                <strong>TODO</strong>
+              </div>
+            </div>
+          </div>
+
+      </div>
+  </main>
+
+<%- include('./partials/main_foot'); %>

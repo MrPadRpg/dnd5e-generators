@@ -1,0 +1,118 @@
+{
+  "particularite": {
+    "values": [
+      "Distrait",
+      "Arrongant",
+      "Rustre",
+      "Mâche quelque chose",
+      "Maladroit",
+      "Curieux",
+      "Peu intelligent",
+      "Tripotte quelque chose / A la bougeotte",
+      "Utilise fréquemment le mauvais mot",
+      "Amical",
+      "Irritable",
+      "Sujet à des prédictions de malheur",
+      "Fortement marqué",
+      "Grossièrté, zozotement ou bégaiement",
+      "Parle fort / Chuchotte",
+      "Plisse les yeux",
+      "Fixe au loin",
+      "Suspicieux",
+      "Utilise des jurons et des formules colorées",
+      "Utilise un discours fleuri ou des mots longs"
+    ]
+  },
+  "ideaux": {
+    "good":{
+      "values":[
+        "Beauté",
+        "Charité",
+        "Bien commun",
+        "Vie",
+        "Respect",
+        "Sacrifice de soi"
+      ]
+    },
+    "evil":{
+      "values":[
+        "Domination",
+        "Cupidité",
+        "Puissance",
+        "Douleur",
+        "Rétribution",
+        "Massacre"
+      ]
+    },
+    "lawful":{
+      "values":[
+        "Communauté",
+        "Équité",
+        "Honneur",
+        "Logique",
+        "Responsabilité",
+        "Tradition"
+      ]
+    },
+    "chaotic":{
+      "values":[
+        "Changement",
+        "Créativité",
+        "Liberté",
+        "Indépendance",
+        "Sans limites",
+        "Fantaisie"
+      ]
+    },
+    "neutral":{
+      "values":[
+        "Équilibre",
+        "Connaissance",
+        "Vivre et laisser vivre",
+        "Modération",
+        "Neutralité",
+        "Peuple"
+      ]
+    },
+    "other":{
+      "values":[
+        "Aspiration",
+        "Découverte",
+        "Gloire",
+        "Nation",
+        "Rédemption",
+        "Connaissance de soi"
+      ]
+    }
+  },
+  "bonds":{
+    "values":[
+      "Dévoué à la réalisation d'un objectif personnel",
+      "Protection des membres de la famille proche",
+      "Protection des collègues ou des compatriotes",
+      "Loyal envers un bienfaiteur, un patron ou un employeur",
+      "Captivé par un intérêt romantique",
+      "Attiré par un lieu particulier",
+      "Protecteur d'une personne proche",
+      "Protecteur d'un souvenir sentimental",
+      "Protecteur d'un bien de valeur",
+      "En quête de vengeance"
+    ]
+  },
+  "flaws_secrets":{
+    "values":[
+      "Amour interdit ou susceptibilité à la romance",
+      "Aime les plaisirs décadents",
+      "Arrogance",
+      "Envie d'une autre créature",
+      "Avidité démesurée",
+      "A tendance à se mettre en colère",
+      "A un ennemi puissant",
+      "Phobie spécifique",
+      "Histoire honteuse ou scandaleuse",
+      "Crime ou méfait secret",
+      "Possession de connaissances interdites",
+      "Bravoure téméraire"
+    ]
+  }
+}

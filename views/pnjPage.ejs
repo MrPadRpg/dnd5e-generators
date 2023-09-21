@@ -1,0 +1,91 @@
+<%- include('./partials/main_head'); %>
+
+    <main>
+      <div class="jumbotron">
+          <h1>Générateur de PNJs</h1>
+          <br/>
+          
+          <button class="btn btn-info" type="submit" onclick="location.reload();">Nouveau</button>
+
+          <div class="container">
+            <div class="row border border-secondary fw-bold text-center">
+              <div class="col border-end">V1</div>
+              <div class="col">V2</div>
+            </div>
+            <div class="row border border-top-0 border-secondary">
+              <div class="col border-end">
+                
+                <p><strong>Particularité:</strong> <%= particularite %></p>
+                <p>
+                  <strong>Ideaux:</strong> 
+                  <ul>
+                    <li><strong>Bon</strong>: <%= ideaux.good %></li>
+                    <li><strong>Mauvais</strong>: <%= ideaux.evil %></li>
+                    <li><strong>Loyal</strong>: <%= ideaux.lawful %></li>
+                    <li><strong>Chaotique</strong>: <%= ideaux.chaotic %></li>
+                    <li><strong>Neutre</strong>: <%= ideaux.neutral %></li>
+                    <li><strong>Autre</strong>: <%= ideaux.other %></li>
+                  </ul>
+                </p>
+                <p><strong>Lien:</strong> <%= bond %></p>
+                <p><strong>Faille / Secret:</strong> <%= flaw_secret %></p>
+
+              </div>
+              <div class="col">
+                
+                <strong>Visage et Tête</strong>
+                <ul>
+                  <li><strong>Yeux</strong>: <%= npc.facial_features.eyes %></li>
+                  <li><strong>Oreilles</strong>: <%= npc.facial_features.ears %></li>
+                  <li><strong>Bouche</strong>: <%= npc.facial_features.mouth %></li>
+                  <li><strong>Nez</strong>: <%= npc.facial_features.nose %></li>
+                  <li><strong>Machoire/Menton</strong>: <%= npc.facial_features.chin_jaw %></li>
+                  <li><strong>Cheveux</strong>: <%= npc.facial_features.hair %></li>
+                  <li><strong>Autre</strong>: <%= npc.facial_features.other %></li>
+                </ul>
+
+                <strong>Traits Physique</strong>
+                <ul>
+                  <li><strong>Taille</strong>: <%= npc.physical_traits.height %></li>
+                  <li><strong>Corps</strong>: <%= npc.physical_traits.body %></li>
+                  <li><strong>Mains</strong>: <%= npc.physical_traits.hands %></li>
+                  <li><strong>Cicatrice</strong>: <%= npc.physical_traits.scars %></li>
+                </ul>
+
+                <strong>Accessoires</strong>
+                <ul>
+                  <li><strong>Tatouage</strong>: <%= npc.accessories.tattoo %></li>
+                  <li><strong>Bijoux</strong>: <%= npc.accessories.jewerly %></li>
+                  <li>
+                    <strong>Matière du bijoux</strong>: <%= npc.accessories.jewelry_made_of %>
+                    <ul>
+                      <li><i>Si Pierre Précieuse</i>: <%= npc.accessories.gemstones %></li>
+                    </ul>
+                  </li>
+                  <li><strong>Vêtements</strong>: <%= npc.accessories.clothes %></li>
+                </ul>
+
+                <strong>Emotions / Attitude</strong>
+                <ul>
+                  <li><strong>Quand Calme</strong>: <%= npc.emotions_attitudes.calm_trait %></li>
+                  <li><strong>Quand Stressé</strong>: <%= npc.emotions_attitudes.stress_trait %></li>
+                  <li><strong>Humeur</strong>: <%= npc.emotions_attitudes.mood %></li>
+                </ul>
+
+                <strong>Foi et Croyances</strong>
+                <ul>
+                  <li><strong>Foi</strong>: <%= npc.faith_beliefs.faith %></li>
+                  <li><strong>Préjugés</strong>: <%= npc.faith_beliefs.prejudice_name %> (<%= npc.faith_beliefs.prejudice_target %>)</li>
+                </ul>
+
+                <strong>Défaut</strong>: <%= npc.flaws %>
+
+              </div>
+            </div>
+          </div>
+
+      </div>
+  </main>
+
+<%- include('./partials/main_foot'); %>
+

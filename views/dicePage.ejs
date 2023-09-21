@@ -1,0 +1,48 @@
+<%- include('./partials/main_head'); %>
+
+    <main>
+      <div class="jumbotron">
+          <h1>Lanceur de dés</h1>
+          <br/>
+
+            <form id="dice_form">
+              <div class="input-group input-group-sm" style="width: 500px;">
+                <div class="form-floating">
+                  <input type="number" value="1" id="dice-number" name="dice_number" class="form-control">
+                  <label for="dice-number" class="form-label">Nombre de dés</label>
+                </div>
+                <div class="form-floating">
+                  <select name="dice_type" id="dice-type" class="form-select">
+                      <option value="4">d4</option>
+                      <option value="6">d6</option>
+                      <option value="8">d8</option>
+                      <option value="10">d10</option>
+                      <option value="12">d12</option>
+                      <option value="20">d20</option>
+                      <option value="100">d100</option>
+                  </select>
+                  <label for="dice-type" class="form-label">Valeur du dé</label>
+                </div>
+                <div class="form-floating">
+                  <input type="number" value="0" id="dice-bonus" name="dice_bonus" class="form-control">
+                  <label for="dice-bonus" class="form-label">Bonus/Malus</label>
+                </div>
+              <button class="btn btn-info" id="relaunchButton">Lancer</button>
+              </div>
+            </form>
+
+          </p>
+
+          <h2>Résultat</h2>
+          <div id="dice_result"></div>
+          <div id="dice_detail"></div>
+          <div id="dice_time" style="font-size: x-small;"></div>
+
+      </div>
+  </main>
+
+  <script src="clientDice.js"></script>
+
+
+<%- include('./partials/main_foot'); %>
+

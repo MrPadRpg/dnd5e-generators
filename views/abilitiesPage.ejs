@@ -1,0 +1,76 @@
+<%- include('./partials/main_head'); %>
+
+    <main>
+      <div class="jumbotron">
+          <h1>Tirage de Caractéristiques</h1>
+          <br/>
+          <button class="btn btn-info" type="submit" onclick="location.reload();">Nouveau lancé</button>
+          <br/>
+          <br/>
+
+          <h2>Standard</h2>
+          <p>6x 4d6 en gardant les 3 meilleurs dés sur chaque jet.</p>
+          <div class="container text-center" style="width: 500px;">
+            <div class="row border border-secondary">
+              <div class="col border-end"><%= resultStandard[0] %></div>
+              <div class="col border-end"><%= resultStandard[1] %></div>
+              <div class="col border-end"><%= resultStandard[2] %></div>
+              <div class="col border-end"><%= resultStandard[3] %></div>
+              <div class="col border-end"><%= resultStandard[4] %></div>
+              <div class="col"><%= resultStandard[5] %></div>
+            </div>
+          </div>
+          <br/>
+          
+          <h2>Matrice</h2>
+          <p>9x 4d6 en gardant les 3 meilleurs dés sur chaque jet. Ensuite, on choisi une ligne et une colonne, une ligne et une diagonale, une colonne et une diagonale, deux lignes, deux colonnes ou les deux diagonales.</p>
+          <div class="container text-center" style="width: 500px;">
+            <div class="row border border-secondary">
+              <div class="col border-end"><%= resultMatrix[0] %></div>
+              <div class="col border-end"><%= resultMatrix[1] %></div>
+              <div class="col"><%= resultMatrix[2] %></div>
+            </div>
+            <div class="row border border-top-0 border-secondary">
+              <div class="col border-end"><%= resultMatrix[3] %></div>
+              <div class="col border-end"><%= resultMatrix[4] %></div>
+              <div class="col"><%= resultMatrix[5] %></div>
+            </div>
+            <div class="row border border-top-0 border-secondary">
+              <div class="col border-end"><%= resultMatrix[6] %></div>
+              <div class="col border-end"><%= resultMatrix[7] %></div>
+              <div class="col"><%= resultMatrix[8] %></div>
+            </div>
+          </div>
+
+          <h2>Difficile</h2>
+          <p>6x 3d6.</p>
+          <div class="container text-center" style="width: 500px;">
+            <div class="row border border-secondary">
+              <div class="col border-end"><%= resultHard[0] %></div>
+              <div class="col border-end"><%= resultHard[1] %></div>
+              <div class="col border-end"><%= resultHard[2] %></div>
+              <div class="col border-end"><%= resultHard[3] %></div>
+              <div class="col border-end"><%= resultHard[4] %></div>
+              <div class="col"><%= resultHard[5] %></div>
+            </div>
+          </div>
+          <br/>
+          
+          <h2>"Facile"</h2>
+          <p>6x 4d4+4 (résultat entre 8 et 20).</p>
+          <div class="container text-center" style="width: 500px;">
+            <div class="row border border-secondary">
+              <div class="col border-end"><%= resultSoft[0] %></div>
+              <div class="col border-end"><%= resultSoft[1] %></div>
+              <div class="col border-end"><%= resultSoft[2] %></div>
+              <div class="col border-end"><%= resultSoft[3] %></div>
+              <div class="col border-end"><%= resultSoft[4] %></div>
+              <div class="col"><%= resultSoft[5] %></div>
+            </div>
+          </div>
+          <br/>
+          
+      </div>
+    </main>
+
+<%- include('./partials/main_foot'); %>

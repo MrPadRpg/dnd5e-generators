@@ -1,0 +1,16 @@
+{
+  "name": "dnd_5e_generators",
+  "version": "1.0.0",
+  "description": "Generators for DnD 5e",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.2",
+    "seedrandom": "^3.0.5"
+  }
+}
